@@ -172,7 +172,7 @@ const forgotPassword = async (req, res) => {
         await user.save();
 
         // Send email
-        const resetUrl = `http://localhost:5173/resetpassword/${resetToken}`;
+        const resetUrl = `https://orbit-task-manager.vercel.app/resetpassword/${resetToken}`;
 
         const transporter = nodemailer.createTransport({
             service: "Gmail",
