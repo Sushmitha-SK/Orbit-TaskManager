@@ -11,6 +11,19 @@
 - **Live Application**: [https://orbit-task-manager.vercel.app/](https://orbit-task-manager.vercel.app/)
 - **GitHub Repository**: [https://github.com/Sushmitha-SK/Orbit-TaskManager.git](https://github.com/Sushmitha-SK/Orbit-TaskManager.git)
 
+**Note**: During the initial launch, there might be a slight delay as the backend server sets up configurations and caches. Subsequent startups will be faster.
+
+---
+
+## 🚪 Admin Login Credentials
+
+To access the Admin Dashboard and explore the full management features of Orbit, use the following login details:
+
+- Email: sampath@yopmail.com
+- Password: sampath123
+
+**Note**: During the initial launch, there might be a slight delay as the backend server sets up configurations and caches. Subsequent startups will be faster.
+
 ---
 
 ## ✨ Features
@@ -81,7 +94,8 @@
 
 ### Deployment:
 
-- Hosted on [Vercel](https://vercel.com/) for fast, reliable, and scalable deployment.
+- Frontend: Hosted on [Vercel](https://vercel.com/) for fast, reliable, and scalable deployment.
+- Backend: Hosted on [Render](https://render.com/) to provide robust and scalable server-side support.
 
 ---
 
