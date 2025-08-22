@@ -82,7 +82,7 @@ To access the Admin Dashboard and explore the full management features of Orbit,
 
 - **Loader**: react-spinners
 
-- **API Integration**: https://orbit-taskmanager.onrender.com
+- **API Integration**: https://orbit-task-manager-server.vercel.app
 
 - **Backend**: Node.js with Express.js for server-side logic and APIs
 
@@ -95,7 +95,7 @@ To access the Admin Dashboard and explore the full management features of Orbit,
 ### Deployment:
 
 - Frontend: Hosted on [Vercel](https://vercel.com/) for fast, reliable, and scalable deployment.
-- Backend: Hosted on [Render](https://render.com/) to provide robust and scalable server-side support.
+- Backend: Hosted on [Vercel](https://vercel.com/) to provide robust and scalable server-side support.
 
 ---
 
