@@ -1,4 +1,4 @@
-export const BASE_URL = "https://orbit-taskmanager.onrender.com"
+export const BASE_URL = "https://orbit-task-manager-server.vercel.app"
 
 export const API_PATHS = {
     AUTH: {
